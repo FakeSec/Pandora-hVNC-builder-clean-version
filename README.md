@@ -11,8 +11,8 @@
 WebGL Support - Hidden Desktop - Copy/Paste internal - Encrypted Connection - File Manager Internal - C#/C+ + (Native) Crypter Compatibility - IPV4/ DNS Support - WD Exclusion No Popups - Quality Support - Browser Profile Cloner - Process Suspension - File Manager Support Download/Upload/Create/Delete/Explore/Execute - Reverse Connection - Hidden Persistence / Startup - Random Mutex - 2FA Recovery Bypass - Reflective Stub Injection - Stub is RunPE Compatible - Process Suspension - Download / Execute (Powershell) - Windows Defender Exclusion (No Popups) - Encrypted Connection - Kill browsers individually or all - Binder - Steal Remote Clipboard - Lightweight TCP Server - UAC Exploit (No Popups) - Browser Profile Cloner S/ C/ P/ H - CMD/Powershell Prompt - Small Stub ~130kb - Quality Adjustment/ Image Resize of hVNC - Obfuscated Stub - Compressed Image Support for faster Interaction - Random Mutex for single instances - Supported Browsers & Mail Applications - Mass disconnect - online / Offline Logger
 
 ![pussy](https://user-images.githubusercontent.com/106186548/170246684-b8e2db66-9b06-4836-aa03-97857aa01178.gif)
-
-
+# How To Buy
+# Dm on Telegram For Buying @Fake_Sec
 
 **This is not a crack and not a reverse either.Pandora hVNC Source codes have been completely leaked.There are so many shitty hvncs, pandora is one of them. I'm sharing it so that you don't pay for such things for nothing.if your have any error problems or need any other help, you can contact me via telegram. Telegram: @Fake_Sec in the sequel are going to show up soon.....**
 ## Question&Answer
@@ -209,3 +209,6 @@ In addition, if the software is posted to third party forums for cracking/warez/
 Kindly note that the thread is only for reviews, any questions you might have regarding the software's functionality they will be answered through Issue
 
 Your opinion always matters and it is most welcome, i encourage you to ask for new features also report any bugs you might spot. Purchasing the software you automatically accept the ToS.
+
+
+# Dm on Telegram For Buying @Fake_Sec
