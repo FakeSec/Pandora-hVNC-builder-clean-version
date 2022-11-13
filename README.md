@@ -1,4 +1,4 @@
-# Pandora hVNC Hidden Browser C# & C++ Hvnc
+# Pandora hVNC Builder Fully Clean Hidden Browser C# & C++ Hvnc
 ![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)
 ![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu/badge)
 ![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)
