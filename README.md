@@ -14,7 +14,7 @@ WebGL Support - Hidden Desktop - Copy/Paste internal - Encrypted Connection - Fi
 
 
 
-**This is not a crack and not a reverse either.Pandora hVNC Source codes have been completely leaked.There are so many shitty hvncs, pandora is one of them. I'm sharing it so that you don't pay for such things for nothing.if your have any error problems or need any other help, you can contact me via telegram. Telegram: @BONBONATHY  in the sequel are going to show up soon.....**
+**This is not a crack and not a reverse either.Pandora hVNC Source codes have been completely leaked.There are so many shitty hvncs, pandora is one of them. I'm sharing it so that you don't pay for such things for nothing.if your have any error problems or need any other help, you can contact me via telegram. Telegram: @Fake_Sec in the sequel are going to show up soon.....**
 ## Question&Answer
 <details>
 <summary>What is Hidden VNC</summary>
