@@ -14,7 +14,7 @@ WebGL Support - Hidden Desktop - Copy/Paste internal - Encrypted Connection - Fi
 # How To Buy
 # Dm on Telegram For Buying @Fake_Sec
 
-![PANDORA HVNC](https://imgur.com/a/6CT1NSn)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/6CT1NSn" data-context="false" ><a href="//imgur.com/a/6CT1NSn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 **This is not a crack and not a reverse either.Pandora hVNC Source codes have been completely leaked.There are so many shitty hvncs, pandora is one of them. I'm sharing it so that you don't pay for such things for nothing.if your have any error problems or need any other help, you can contact me via telegram. Telegram: @Fake_Sec in the sequel are going to show up soon.....**
 ## Question&Answer
